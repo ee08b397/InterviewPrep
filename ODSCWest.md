@@ -11,15 +11,16 @@ Tags: BayArea, Meetup, History
 I'm proud and grateful to have heard about an exclusive opportunity I happened to find through my meetup connections: [<a href="http://odsc.com/" target="_blank">Open Data Sci Conference West Coast 2015</a>][4]! A memorable chapter and Genesis in a journey to discover more Data Science, Engineering &amp; Analytics, all of which I'm happy to share with fellow friends and followers. As a novelty-seeking college senior, it truly marked a unique point in my studies where I segue from public education environment into a new world of fluid, startup-type learning kind of deal.
 
 ![Name Tag][1]
+<div class="center"><i>my dog tag - a memento &amp; badge of honor</i></div>
 
 Not alone bound by the previous incentives of grades or a diploma, I felt enspirited by attending this conference, simply because I had the valuable chance to absorb the ideas of the best minds in the field (hopefully earning mentor thoughts en route) like a sponge, and the power to choose from a variety of diverse [workshops][8] and [speakers][7]. And the cool, relaxing scenery by the San Francisco Bay at Waterfront Hotel venue is a bonus! These are the special ingredients needed to pursue the next steps in establishing my own respectable professional career which mix well into a sure recipe for success. But I'm forgetting another ingredient...
 
 <div class="panel toc">
-	<div class="post-meta panel-heading" style="margin-top: 0px">
+	<div class="panel-heading" style="margin-top: 0px">
 		<h3>Contents</h3>
 	</div>
 	<ol>
-		<li>[Keynote Opening Presentations][]</li>
+		<li><a href="#toc-keynote">Keynote Opening Presentations</a></li>
 		<li>[Workshops and Speakers][]</li>
 		<li>[Welcome to Our Table!][]</li>
 		<li>[Mixer, Courtesy of DataRobot][]</li>
@@ -28,6 +29,7 @@ Not alone bound by the previous incentives of grades or a diploma, I felt enspir
 
 </div>
 
+<a id="toc-keynote"></a>
 ###Keynote Opening Presentations
 
 
@@ -99,7 +101,9 @@ not enough young inexperienced cut off everyone's voice is important to hear
 
 SF first few groups of Asians in America china man miscegenation homecoming
 
-bicycle happy with who i am
+ni hao bicycle happy with who i am
+
+good chinese character
 
 
 timothy silicon railroad tim hwang
