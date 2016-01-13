@@ -1,6 +1,6 @@
 Title: SF Open Data Science Conference!
 Author: Kevin
-about_author: Data Evangelist who synthesizes science &amp; spirit to tell his data stories!
+about_author: <i>Data Evangelist who synthesizes science &amp; spirit to tell his data stories!</i>
 Email: kevhung11@gmail.com
 Date: 2015-11-14
 Category: Social
@@ -11,7 +11,7 @@ Tags: BayArea, Meetup, History
 I'm proud and grateful to have heard about an exclusive opportunity I happened to find through my meetup connections: [<a href="http://odsc.com/" target="_blank">Open Data Sci Conference West Coast 2015</a>][4]! A memorable chapter and Genesis in a journey to discover more Data Science, Engineering &amp; Analytics, all of which I'm happy to share with fellow friends and followers. As a novelty-seeking college senior, it truly marked a unique point in my studies where I segue from public education environment into a new world of fluid, startup-type learning kind of deal.
 
 ![Name Tag][1]
-<div class="center"><i>my dog tag - a memento &amp; badge of honor</i></div>
+<div class="center"><i>dog tag: a memento &amp; badge of honor</i></div>
 
 Not alone bound by the previous incentives of grades or a diploma, I felt enspirited by attending this conference, simply because I had the valuable chance to absorb the ideas of the best minds in the field (hopefully earning mentor thoughts en route) like a sponge, and the power to choose from a variety of diverse [workshops][8] and [speakers][7]. And the cool, relaxing scenery by the San Francisco Bay at Waterfront Hotel venue is a bonus! These are the special ingredients needed to pursue the next steps in establishing my own respectable professional career which mix well into a sure recipe for success. But I'm forgetting another ingredient...
 
@@ -34,7 +34,7 @@ Not alone bound by the previous incentives of grades or a diploma, I felt enspir
 
 
 ![Conference][2]
-<div class="center"><i>Sheamus McGovern meetup co-organizer via smartphone camera (good kids sit upfront!)</i></div>
+<div class="center"><i>Sheamus the meetup co-organizer via smartphone camera (good kids sit upfront!)</i></div>
 
 How trite for yet another Data Scientist with a Physics background to do honor and lead the introduction. The 1st keynote quickly kicked off with none other than Dr. Brian Granger, physicist and co-author of IPython Notebook, and the takehome point I enjoyed from his presentation is along the lines of
 
@@ -43,22 +43,25 @@ How trite for yet another Data Scientist with a Physics background to do honor a
 
 which is quite fitting given the idea of the Notebook tool which interactively combines code with media. Not surprisingly I'm racking my brains to recall the bottom line delivered by the presenter of the 2nd keynote which evades me at the moment (likely due to the serial position effect AKA primacy-recency effect<sup id="serial-position-effect">[\[1\]][11]</sup>), although I remember the speaker passionately about Crowdflower. How could I forgot his main idea he enthusiastically discussed? Is it in my notes somewhere I can find? As expected however, I do remember the third keynote second-best!<sup id="primacy-recency-effect">[\[2\]][12]</sup>
 
-Vin Sharma's presentation described Data Science as a [protoscience][14], analogizing it to similar developments in alchemy and talked about philosophical aspects of typical processes and workflows. Resonates deeply with my approach in science that encourages fresh and new perspectives to new ideas which may not necessarily be as rigorous or established as other branches of knowledge, yet nonetheless have untapped potential that incentivizes us to explore beyond convention. Again, resonates with my personal philosophy that it's fine to recognize your unique beliefs and accept religion as your identity while practicing the sciences too.
+Vin Sharma's presentation described Data Science as a [protoscience][14], analogizing it to similar developments in alchemy and talked about philosophical aspects of typical processes and workflows. Resonates deeply with my approach in science that encourages fresh and new perspectives to new ideas which may not necessarily be as rigorous or established as other branches of knowledge, yet nonetheless have untapped potential that incentivizes us to explore beyond convention. Again, it resonates with my personal philosophy that it's fine to recognize your unique beliefs and accept religion as your identity while practicing the sciences too.
 
-In the same manner that alchemy helped spur the development of chemistry, or that geometry had once been considered a sacred mystical endeavor, or that elements of psychoanalysis influence psychiatric therapy, Data Science will never be forgetten as a field which potentially establishes itself as a respected discipline or evolves into an even greater idea. The effects of history in protoscience have resounding present-day ramifications, which is why it's so important we study it and be part of it together. This excellent blogpost and partner content from Khanacademy by Michelle Feder<sup id="alchemy-history">[\[3\]][15]</sup> is a tour throughout alchemical history and an example of how rich diverse cultures contribute to the shaping the modern chemistry
+!["http://upload.wikimedia.org/wikipedia/en/b/bf/Harry_Potter_and_the_Sorcerer%27s_Stone.jpg"][17]
+<caption class="center"><i>As ancient alchemists sought to transmute lead into gold through the legendary philosopher's stone and 19th century prospectors [rushed to California][18] in wildest hopes of striking it rich, Data Scientists today are mining an information overload to discover valuable nuggets of insight!</i></caption>
 
-> ### Importance of Protosciences
+In the same manner that alchemy helped spur the development of chemistry, or that geometry had once been considered a sacred mystical endeavor, or that elements of psychoanalysis influence psychiatric therapy, Data Science will never be forgetten as a field which potentially establishes itself as a respected discipline or evolves into an even greater idea. The effects of history in protoscience have resounding present day ramifications, which is why it's so important we study it and be part of it together. This excellent blogpost and partner content from Khan Academy by Michelle Feder<sup id="alchemy-history">[\[3\]][15]</sup> is a tour throughout alchemical history and an example of how rich diverse cultures contribute to the shaping the modern chemistry
+
+> #### Importance of Protosciences
 > Just as alchemy was a touch point for myriad crafts, creations, and — for its time — cures, chemistry resides in the center of the sciences. As an inquisitive discipline, chemistry touches physics on one side and biology on the other. Chemical questions lead to environmental, industrial, and medical applications.
 > <br /><br />
 > Khan Academy History Project Excerpt - ["From Alchemy to Chemistry"][13]
 
-The 3rd keynote provided closure for the introductions which also adequately left the audience with the feeling mystery, an air of inpsiration and wonder at the new era of science brought on by the a deluge of data. My fellow mentor enjoyed Vin's lecture as well, and I should ask him why it stands out in his perspective (I also reached out to Vin by email and twitter, so hopefully he can touch base with me soon for an engaging further discussion). 5 stars
+The 3rd keynote provided closure for the introductions which also adequately left the audience with the feeling mystery, an air of inpsiration and wonder at the new era of science brought on by the a deluge of data. My fellow mentor enjoyed Vin's lecture as well, and I should ask him why it stands out in his perspective (I also reached out to Vin by email and twitter. Hopefully he'll touch base with me soon for an engaging further discussion.) 5 stars
 
 ### Workshops and Speakers
 
-I had a chance to attend Neo4J's workshop where I happily recall we crash-course learned to "draw art with ascii" in reference to their hip query language syntax, thanks to Data Scientist Nicole White. Also checked out Galvanize's D3.js short tutorial whose resources are on github. Nina Zumel and John Mount's    John Myles White Cole Knaflic's better late than never Dato 
+I had a chance to attend Neo4J's workshop where I happily recall we crash-course learned to "draw art with ascii" in reference to their hip query language syntax, thanks to Data Scientist Nicole White. Also checked out Galvanize's D3.js short tutorial whose resources are on github. Lastly I had the pleasure to finally enjoy Dr. John Myles White's Julia lecture in the language's ongoing developments &dash; since I missed him when he last visited UCSD &dash; and I found Mrs. Cole Knaflic's [storytelling][19] [presentation][20] to be terrific and riveting as she teaches us how to use charts, colors and visuals for impactfulness.
 
-I've still to ask my fellow Triton classmates (mainly graduate students/researchers) their experience on the remaining workshops and speakers they attended on my behalf due to conflict at being in concurrent presentations near adjacent rooms. But I did follow up later after the conference ended and conveniently asked the organizer team on twitter if they could share their video resources. Luckily, they were super nice and accesible with their quick response
+I've still to ask my fellow Triton classmates, mainly graduate students, their experience on the remaining workshops and speakers they attended on my behalf due to conflict at being in concurrent presentations near adjacent rooms. But I did follow up later after the conference ended and conveniently asked the organizer team on twitter if they could share their video resources. Luckily, they were super nice and accesible with their quick response:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/M8taD8ta">@M8taD8ta</a> There&#39;s a Playlist just for workshops: <a href="https://t.co/ig8PtYFPT5">https://t.co/ig8PtYFPT5</a> <a href="https://twitter.com/hashtag/ODSC?src=hash">#ODSC</a></p>&mdash; Open Data Science (@odsc) <a href="https://twitter.com/odsc/status/671712884922126337">December 1, 2015</a></blockquote>
 
@@ -66,12 +69,14 @@ And I obviously reciprocated their kindness by sharing with my many friends at s
 
 ### Welcome to Our Table!
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/datoinc">@datoinc</a> <a href="https://twitter.com/jjangsangy">@jjangsangy</a> is a fan of Dato! Sang is our partner who first introduced Dato to us :)</p>&mdash; Kevin Hung (@M8taD8ta) <a href="https://twitter.com/M8taD8ta/status/668187295179083776">November 21, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+I first heard of the book <i>Practical Data Science with R</i> from my dear Math professor in college at UCSD who taught [Data Analysis][21]. As a homework assignment, we read Win Vector's guest article on log transforming data (a sneak peek of Chapter 4 in the book.) Suprised to hear they were appearing at the conference, I made it a plan to partake in Nina Zumel and John Mount's workshop, as well as drop by to say hi to them afterward at their book signing. "We really like you at UCSD!" I said as I smiled to them, "Our Math professor "
+
+![PDSwR Book][3]
 
 Dato I heard of their service before from my fellow UCSD alumni who I shared a data project on Macy's wedding SEO data with. I remember their table being extremely friendly and I said to the VP of Marketing "I'd like to share a gift with you!" I also asked about her personal story and how she arrived at the conferenced
 
-![PDSwR Book][3]
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/datoinc">@datoinc</a> <a href="https://twitter.com/jjangsangy">@jjangsangy</a> is a fan of Dato! Sang is our partner who first introduced Dato to us :)</p>&mdash; Kevin Hung (@M8taD8ta) <a href="https://twitter.com/M8taD8ta/status/668187295179083776">November 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Mixer, Courtesy of DataRobot
 
@@ -141,3 +146,9 @@ https://www.youtube.com/playlist?list=PLB2SCq-tZtVkZ167yvt_4h8jk9FttJn_a
 [14]: http://en.wikipedia.org/wiki/Protoscience "Protoscience on Wikipedia"
 [15]: #ref-alchemy-history
 [16]: #alchemy-history
+[17]: http://upload.wikimedia.org/wikipedia/en/b/bf/Harry_Potter_and_the_Sorcerer%27s_Stone.jpg "image on wikimedia uploads"
+[18]: http://en.wikipedia.org/wiki/California_Gold_Rush "Gold Rush on Wikipedia"
+[19]: http://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257 "Storytelling with Data Amazon"
+[20]: http://www.youtube.com/watch?v=4g2g1vS157Q "Storytelling with Data Video"
+[21]: http://math189.edublogs.org "Math 189 Winter 2015"
+[22]: 
