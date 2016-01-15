@@ -21,10 +21,10 @@ Not alone bound by the previous incentives of grades or a diploma, I felt enspir
 	</div>
 	<ol>
 		<li><a href="#toc-keynote">Keynote Opening Presentations</a></li>
-		<li>[Workshops and Speakers][]</li>
-		<li>[Welcome to Our Table!][]</li>
-		<li>[Mixer, Courtesy of DataRobot][]</li>
-		<li>[How I Feel About San Francisco][]</li>
+		<li><a href="#toc-workshops">Workshops and Speakers</a></li>
+		<li><a href="#toc-tabling">Welcome to Our Table!</a></li>
+		<li><a href="#toc-mixer">Mixer, Courtesy of DataRobot</a></li>
+		<li><a href="#toc-retrospection">How I Feel About San Francisco</a></li>
 	</ol>
 
 </div>
@@ -60,11 +60,14 @@ In the same manner that alchemy helped spur the development of chemistry, or tha
 
 The 3rd keynote provided closure for the introductions which also adequately left the audience with the feeling mystery, an air of inpsiration and wonder at the new era of science brought on by the a deluge of data. My fellow mentor enjoyed Vin's lecture as well, and I should ask him why it stands out in his perspective (I also reached out to Vin by email and twitter. Hopefully he'll touch base with me soon for an engaging further discussion.) 5 stars
 
-*Oh and by the way he did get back, hence his slideshare. How friendly!*
+*Oh and by the way he did get back, hence his slideshare I embedded. How friendly!*
 
+<a id="toc-workshops"></a>
 ### Workshops and Speakers
 
-I had a chance to sit in on Neo4J's workshop where I happily recall we crash-course learned to "draw art with ascii" in reference to their hip query language syntax, thanks to Data Scientist Nicole White. Also checked out Galvanize's D3.js short tutorial whose resources are on github. Lastly I had the pleasure to finally enjoy Dr. John Myles White's Julia lecture in the language's ongoing developments &dash; since I missed him when he last visited UCSD &dash; and I found Mrs. Cole Knaflic's [storytelling][19] [presentation][20] to be terrific and riveting as she teaches us how to combine colors and communication, verbal and visuals for impactfulness.
+I had a chance to sit in on Neo4J's workshop where I happily recall we crash-course learned to "draw art with ascii" in reference to their hip query language syntax, thanks to Data Scientist Nicole White. Also checked out Galvanize's D3.js short tutorial whose resources are on github. Lastly I had the pleasure to finally enjoy Dr. John Myles White's Julia lecture in the language's ongoing developments &mdash; since I missed him when he last visited UCSD &mdash; and I found [Cole Knaflic's storytelling][19] presentation to be a terrific and riveting tale as [she teaches us][20] how to combine colors and communication, verbal and visuals for impactfulness. More tips covered include thinking about proximity, contrast, closure and similarity in data graphics.
+
+I'm touched and impressed how, within the very first 10 minutes of her talk, she already captured the salient points of focusing on appealing to audiences' feelings (the "context") first and then convince them with relevant facts for support, and referencing the [importance of position, size, and color][24]. I had to listen closely to follow along intently &mdash; due to her popularity, the room was packed so paying attention and listening to her experience as well as observing her presentation style was an invaluable challenge.
 
 I've still to ask my fellow Triton classmates, mainly graduate students, their experience on the remaining workshops and speakers they attended on my behalf due to conflict at being in concurrent presentations near adjacent rooms. But I did follow up later after the conference ended and conveniently asked the organizer team on twitter if they could share their video resources. Luckily, they were super nice and accesible with their quick response:
 
@@ -72,8 +75,9 @@ I've still to ask my fellow Triton classmates, mainly graduate students, their e
 
 <iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLB2SCq-tZtVkZ167yvt_4h8jk9FttJn_a" frameborder="0" allowfullscreen></iframe>
 
-And I obviously reciprocated their kindness by sharing the playlist link with my wide network of friends at school, as well as new friends I met at Galvanize's mixer meetup a few weeks later. Share well!
+And I obviously reciprocated their kindness by sharing the playlist link with my wide network of friends at school, as well as new friends I met at Galvanize's mixer meetup a few weeks later. Share if you care indeed.
 
+<a id="toc-tabling"></a>
 ### Welcome to Our Table!
 
 I first heard of the book <i>Practical Data Science with R</i> from my dear Math professor in college at UCSD who taught one of the first new [Data Analysis][21] classes. As homework, we read Win Vector's guest [blogpost][22] article on log transforming data (a sneak peek of PDSwR's Chapter 4.) Suprised to hear they were making an appearance at the conference, I made it a plan to attend in Nina Zumel and John Mount's workshop, as well as drop by to say hi to them afterward at their table for book signing. "We really like you at UCSD!" I said as I smiled to them, "Our Math professor had us read your blog for a homework assignment. I also enjoyed the workshop! It was very *practical*." A sly reference to the title of their eponymous book.
@@ -86,26 +90,33 @@ As a testament to how attractive and popular the conference was, I even met Dato
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/datoinc">@datoinc</a> <a href="https://twitter.com/jjangsangy">@jjangsangy</a> is a fan of Dato! Sang is our partner who first introduced Dato to us :)</p>&mdash; Kevin Hung (@M8taD8ta) <a href="https://twitter.com/M8taD8ta/status/668187295179083776">November 21, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-At the same Galvanize holiday meetup SF Data Mining following the ODSC event, I listened to a lecture given by her husband on analyzing log data. I made sure to show him our unique Christmas present and he proposed an idea that we could maybe share on the Dato blog. I followed up shortly after and excitedly look forward to hear more about their work in the future.
+At the same Galvanize holiday meetup SF Data Mining hosted following the ODSC event, I listened to a lecture given by her husband on analyzing log data. I made sure to show him our unique Christmas present, and he proposed an idea that we could maybe share on the Dato blog. I followed up shortly after the event, and I feel personally excited to hear more about their good work in the future.
 
+<a id="toc-mixer"></a>
 ### Mixer, Courtesy of DataRobot
 
 A generous evening with snacks and cocktails provided by DataRobot, a Boston AI company, was a great opportunity to meet with folks in a relaxed atmosphere, appropriate for the Thanksgiving holiday season. Wearing my signature Qualcomm jacket, I attracted the attention a fellow named David who quickly pointed out he worked on Qualcomm's Analytics team. We exchanged backgrounds and he asked if I had any classmates who were interested in coaching him through his studies in Predictive Analytics, given I told him I help lead UCSD's Data Science club.
 
-I also happily met a fellow new grad and we were happy to appreciate each other's situation. She moved from the East Coast after graduation and probed if I had luck landing a job. Not yet, but I gave her great tips to demonstrate the power of friendship. "Do you have friends working at local companies? 90% of hiring is based on referrals!" I made the mistake of forgetting to ask for her contact, so let that be a painful reminder for me to invest in business cards. Hope we meet again soon!
+<img src="http://blog.livehire.me/wp-content/uploads/2014/09/Racial-Discrimination-LiveHire1.jpg" width=300 height=300></img>
+
+<div class="center"><i>motivating image found on <a href="http://blog.livehire.me/whats-in-a-name/">livehire.me</a></i></div> 
+
+I also happily met a fellow new grad and we were happy to appreciate each other's situation. She moved from the East Coast after graduation and probed if I had luck landing a job. Not yet, but I gave her great tips to demonstrate the power of friendship. "Do you have friends working at local companies? 90% of hiring is based on referrals!" I made the mistake of forgetting to ask for her contact, so let that be a painful reminder for me to invest in business cards. Hope we meet again soon, *friend*! Yes, friendship is certainly a power, and the ability of asking is an asset as well:
 
 Questions I should propose in future meetups to network effectively
 
-- Who is part of the leadership (or your faculty lab advisor, if part of research)?
-- What is your role or the kind of work you do in the organization?
-- When did you get your start in the field? When is a good time I reach you soon?
-- Where is your team or who do you suggest that I meet/speak with?
-- How did you hear about the event? (find the source!)
-- Why did you feel like dropping by?
-- Can I get you coffee or tea sometime? Are you down for drinks?
+- Who is part of the leadership team/your faculty lab advisor? (ask more people of influence)
+- What is your role or what kind of work you do in your company? (organizational structure)
+- When did you get your start in the field? When will I see you soon? (history, recency, followup)
+- Where is your team or who do you suggest that I meet/speak with? Where are the sponsors? (context: surveying terrain, environment-mapping)
+- Why did you feel like dropping by? (motivations, objectives)
+- How did you hear about the event? (sourcing strategy)
+- Can I get you coffee or tea sometime? Are you down for drinks? (reciprocity, relationship-building)
+- Do you have closing comments or feedback? (closure, perception)
 
-will constantly be expanded when I learn which ones work well. Open gestures and friendly body language are good signals to keep in mind too..
+will constantly be expanded when I learn which ones fit the context. Open gestures and friendly body language are also good signals to keep in mind.. doesn't it account for 80% of communication?
 
+<a id="toc-retrospection"></a>
 ### How I Feel About San Francisco
 
 In my humble idea, to me SF  first few groups of Asians in America china man miscegenation homecoming
@@ -125,6 +136,9 @@ the key ingredient is humility and recognitition of the people who have gone bef
 
 we've come quite far, but we still have much further to go!
 
+
+Nathan Yau VOx Alvin Chang immigration
+http://flowingdata.com/2016/01/12/immigration-history/
 
 ### References
 
@@ -158,3 +172,5 @@ we've come quite far, but we still have much further to go!
 [21]: http://math189.edublogs.org "Math 189 Winter 2015"
 [22]: www.r-statistics.com/2013/05/log-transformations-for-skewed-and-wide-distributions-from-practical-data-science-with-r/ "Math 189 homework"
 [23]: http://portfolium.com/entry/macys-wedding-data-analysis "portfolium"
+[24]: http://flowingdata.com/2010/03/20/graphical-perception-learn-the-fundamentals-first/ "graphical perception"
+[25]: http://blog.livehire.me/wp-content/uploads/2014/09/Racial-Discrimination-LiveHire1.jpg "my name is opportunity"
