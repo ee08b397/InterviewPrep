@@ -51,9 +51,9 @@ Vin Sharma's presentation described Data Science as a [protoscience][14], analog
 !["http://upload.wikimedia.org/wikipedia/en/b/bf/Harry_Potter_and_the_Sorcerer%27s_Stone.jpg"][17]
 <caption class="center"><i>As ancient alchemists sought to transmute lead into gold through the legendary philosopher's stone and 19th century prospectors [rushed to California][18] in hope of striking it rich, Data Scientists today are mining an information overload to discover valuable nuggets of insight!</i></caption>
 
-In the same manner that alchemy helped spur the development of chemistry, or that geometry had once been considered a sacred mystical endeavor, or that elements of psychoanalysis influence psychiatric therapy, Data Science will never be forgetten as a field which potentially establishes itself as a respected discipline or evolves into an even greater idea. The effects of history in protoscience have resounding present day ramifications, which is why it's so important we study it and be part of it together. This excellent blogpost and partner content from Khan Academy by Michelle Feder<sup id="alchemy-history">[\[3\]][15]</sup> is a tour throughout alchemical history and an example of how rich diverse cultures contribute to the shaping of modern chemistry
+In the same manner that alchemy helped spur the development of chemistry, or that geometry had once been considered a sacred mystical endeavor, or that elements of psychoanalysis influence psychiatric therapy, Data Science will never be forgetten as a field which potentially establishes itself as a respected discipline or evolves into an even greater idea. The effects of history in protoscience have resounding present day ramifications, which is why it's so important we study it and be part of it together. This excellent blogpost and partner content from Khan Academy by Michelle Feder<sup id="alchemy-history">[\[3\]][15]</sup> is a tour throughout alchemical history and an example of how rich diverse cultures contribute to the shaping of modern chemistry:
 
-> #### Importance of Protosciences
+> ##### Importance of Protosciences
 > Just as alchemy was a touch point for myriad crafts, creations, and — for its time — cures, chemistry resides in the center of the sciences. As an inquisitive discipline, chemistry touches physics on one side and biology on the other. Chemical questions lead to environmental, industrial, and medical applications.
 > <br /><br />
 > Khan Academy History Project Excerpt - ["From Alchemy to Chemistry"][13]
@@ -67,15 +67,15 @@ The 3rd keynote provided closure for the introductions which also adequately lef
 
 I had a chance to sit in on Neo4J's workshop where I happily recall we crash-course learned to "draw art with ascii" in reference to their hip query language syntax, thanks to Data Scientist Nicole White. Also checked out Galvanize's D3.js short tutorial whose resources are on github. Lastly I had the pleasure to finally enjoy Dr. John Myles White's Julia lecture in the language's ongoing developments &mdash; since I missed him when he last visited UCSD &mdash; and I found [Cole Knaflic's storytelling][19] presentation to be a terrific and riveting tale as [she teaches us][20] how to combine colors and communication, verbal and visuals for impactfulness. More tips covered include thinking about proximity, contrast, closure and similarity in data graphics.
 
-I'm touched and impressed how, within the very first 10 minutes of her talk, she already captured the salient points of focusing on appealing to audiences' feelings (the "context") first and then convince them with relevant facts for support, and referencing the [importance of position, size, and color][24]. I had to listen closely to follow along intently &mdash; due to her popularity, the room was packed so paying attention and listening to her experience as well as observing her presentation style was an invaluable challenge.
+I'm captivated and impressed how, within the very first 10 minutes of her talk, she already captured the salient points of focusing on appealing to audiences' feelings (the "context") first and then convince them with relevant facts for support, and referencing the [importance of position, size, and color][24]. I had to listen closely to follow along intently &mdash; due to her popularity, the room was packed so paying attention, listening to her experience, and observing her presentation style was an invaluable, worthy challenge.
 
-I've still to ask my fellow Triton classmates, mainly graduate students, their experience on the remaining workshops and speakers they attended on my behalf due to conflict at being in concurrent presentations near adjacent rooms. But I did follow up later after the conference ended and conveniently asked the organizer team on twitter if they could share their video resources. Luckily, they were super nice and accesible with their quick response:
+I've still to ask my fellow Triton classmates, mainly graduate students, their experience on the remaining workshops and speakers they attended on my behalf, due to conflict for being in concurrent presentations near adjacent rooms. But I did follow up later after the conference ended and conveniently asked the organizer team on twitter if they could share their video resources. Luckily they were super nice and accesible with their quick response:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/M8taD8ta">@M8taD8ta</a> There&#39;s a Playlist just for workshops: <a href="https://t.co/ig8PtYFPT5">https://t.co/ig8PtYFPT5</a> <a href="https://twitter.com/hashtag/ODSC?src=hash">#ODSC</a></p>&mdash; Open Data Science (@odsc) <a href="https://twitter.com/odsc/status/671712884922126337">December 1, 2015</a></blockquote>
 
-<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLB2SCq-tZtVkZ167yvt_4h8jk9FttJn_a" frameborder="0" allowfullscreen></iframe>
-
 And I obviously reciprocated their kindness by sharing the playlist link with my wide network of friends at school, as well as new friends I met at Galvanize's mixer meetup a few weeks later. Share if you care indeed.
+
+<iframe class="center" width="400" height="230" src="http://www.youtube.com/embed/videoseries?list=PLB2SCq-tZtVkZ167yvt_4h8jk9FttJn_a" frameborder="0" allowfullscreen></iframe>
 
 <a id="toc-tabling"></a>
 ### Welcome to Our Table!
@@ -85,60 +85,75 @@ I first heard of the book <i>Practical Data Science with R</i> from my dear Math
 ![PDSwR Book][3]
 <div class="center"><i>"Practical Data Science with R" book signing</i></div>
 
-As a testament to how attractive and popular the conference was, I even met Dato that weekend. I first heard of their service from my fellow UCSD alumni, Sang, who I worked with a data project on to [analyze Macy's wedding SEO data][23]. I remember their table being extremely excited to know we used their product, and I said surreptitiously to the VP of Marketing, "I'd like to share this gift with you!" I also engaged with Rebecca in a casual chat and asked about her personal story, how she found about the conference and got involved.
+As a testament to how attractive and popular the conference was, I even met Dato that weekend. I first heard of their service from my fellow UCSD alumni, Sang, who I worked with on a data project to [analyze Macy's wedding SEO data][23]. I remember their table being extremely excited to know we used their product, and I said surreptitiously to the VP of Marketing, "I'd like to share this gift with you!" I also engaged with Rebecca in a casual chat and asked about her personal story, how she found about the conference and got involved.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/datoinc">@datoinc</a> <a href="https://twitter.com/jjangsangy">@jjangsangy</a> is a fan of Dato! Sang is our partner who first introduced Dato to us :)</p>&mdash; Kevin Hung (@M8taD8ta) <a href="https://twitter.com/M8taD8ta/status/668187295179083776">November 21, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-At the same Galvanize holiday meetup SF Data Mining hosted following the ODSC event, I listened to a lecture given by her husband on analyzing log data. I made sure to show him our unique Christmas present, and he proposed an idea that we could maybe share on the Dato blog. I followed up shortly after the event, and I feel personally excited to hear more about their good work in the future.
+At the same Galvanize holiday meetup SF Data Mining hosted following the ODSC event, I listened to a lecture given by her close partner on analyzing log data. I made sure to show him our unique Christmas present, and he proposed an idea that we could maybe share it on the Dato blog. I followed up with him by email shortly after the event, and I feel personally excited to hear more about their good work in the future.
 
 <a id="toc-mixer"></a>
 ### Mixer, Courtesy of DataRobot
 
-A generous evening with snacks and cocktails provided by DataRobot, a Boston AI company, was a great opportunity to meet with folks in a relaxed atmosphere, appropriate for the Thanksgiving holiday season. Wearing my signature Qualcomm jacket, I attracted the attention a fellow named David who quickly pointed out he worked on Qualcomm's Analytics team. We exchanged backgrounds and he asked if I had any classmates who were interested in coaching him through his studies in Predictive Analytics, given I told him I help lead UCSD's Data Science club.
+A generous evening with snacks and cocktails provided by DataRobot, a Boston AI company, was a great opportunity to meet with folks in a relaxed atmosphere, appropriate for the upcoming Thanksgiving holiday season. Wearing my fond Qualcomm jacket, I attracted the attention a fellow named David who quickly sought me out since he works for Qualcomm's Analytics team. We exchanged background stories and, interested, he asked if I had any classmates who would like to coach him through his studies in Predictive Analytics since I told him I help led UCSD's Data Science club.
 
 <img src="http://blog.livehire.me/wp-content/uploads/2014/09/Racial-Discrimination-LiveHire1.jpg" width=300 height=300></img>
 
 <div class="center"><i>motivating image found on <a href="http://blog.livehire.me/whats-in-a-name/">livehire.me</a></i></div> 
 
-I also happily met a fellow new grad and we were happy to appreciate each other's situation. She moved from the East Coast after graduation and probed if I had luck landing a job. Not yet, but I gave her great tips to demonstrate the power of friendship. "Do you have friends working at local companies? 90% of hiring is based on referrals!" I made the mistake of forgetting to ask for her contact, so let that be a painful reminder for me to invest in business cards. Hope we meet again soon, *friend*! Yes, friendship is certainly a power, and the ability of asking is an asset as well:
+I also happily met a fellow new grad and we were quick to appreciate each other's situation. She moved from the East Coast after graduation and probed if I had luck landing a job. Not *yet*. But I gave her an excellent tip to demonstrate the power of friendship. "Do you have friends working at local companies? 90% of hiring is based on referrals!" I regret that I forgot to gather her contact info though, so let that be a painful reminder for me to invest in business cards, and most importantly to muster the courage and ask. Hope we meet again soon, friend! Yes, friendship is certainly a power, and the ability of asking is a valuable asset in itself:
 
-Questions I should propose in future meetups to network effectively
+Questions I should propose in future meetups to network effectively (and the ideas they help elucidate)
 
 - Who is part of the leadership team/your faculty lab advisor? (ask more people of influence)
 - What is your role or what kind of work you do in your company? (organizational structure)
 - When did you get your start in the field? When will I see you soon? (history, recency, followup)
-- Where is your team or who do you suggest that I meet/speak with? Where are the sponsors? (context: surveying terrain, environment-mapping)
-- Why did you feel like dropping by? (motivations, objectives)
+- Where is your team or who do you suggest that I meet/speak with? Where are the sponsors? (surveying terrain, environment-mapping)
+- Why did you feel like dropping by? (incentive, motivation, objective)
 - How did you hear about the event? (sourcing strategy)
 - Can I get you coffee or tea sometime? Are you down for drinks? (reciprocity, relationship-building)
-- Do you have closing comments or feedback? (closure, perception)
+- Do you have closing comments or feedback? (closure, perception, listening)
 
-will constantly be expanded when I learn which ones fit the context. Open gestures and friendly body language are also good signals to keep in mind.. doesn't it account for 80% of communication?
+will constantly be expanded when I learn which ones fit the context. Open gestures and friendly body language are also good signals to keep in mind..
 
 <a id="toc-retrospection"></a>
 ### How I Feel About San Francisco
 
-In my humble idea, to me SF  first few groups of Asians in America china man miscegenation homecoming
+I'm touched by a historical bond with the city, in which I naturally empathize with the diverse people and cultures in the native Bay Area.
 
-ni hao bicycle happy with who i am
+first few groups of Asians in America china man miscegenation homecoming
 
-good chinese character
+Nathan Yau VOx Alvin Chang immigration
+http://flowingdata.com/2016/01/12/immigration-history/
 
-Lean In takea page (21 in particular) out of Ms. Sandberg's 
 
-not enough young inexperienced cut off everyone's voice is important to hear
+!["hao"][27]
+<div class="center">
+	<i>
+	"Good" - Ideogram in the Chinese language <br />
+	to uphold honor for both daughter and son <br />
+	"... a good fortune to have a boy and a girl" <br />
+	</i>
+	source: [wiktionary][28]
+	more: 
+</div>
 
+
+ni hao bicycle happy
+
+
+
+Vincent Chin
 
 timothy silicon railroad tim hwang
 
-the key ingredient is humility and recognitition of the people who have gone before us, regardless of their background, and suffered and fought for justice that give us our individual priveleges and freedoms we enjoy today.
+Lean In takea page (21 in particular) out of Ms. Sandberg's not enough young inexperienced cut off everyone's voice is important to hear interrupted, stand your ground
+
+the key ingredient is humility and recognitition of the people who have gone before us, regardless of their background, and suffered and fought for justice that grant us our individual priveleges and freedoms we enjoy today. humility from beginnings comes before honor
 
 we've come quite far, but we still have much further to go!
 
 
-Nathan Yau VOx Alvin Chang immigration
-http://flowingdata.com/2016/01/12/immigration-history/
 
 ### References
 
@@ -174,3 +189,7 @@ http://flowingdata.com/2016/01/12/immigration-history/
 [23]: http://portfolium.com/entry/macys-wedding-data-analysis "portfolium"
 [24]: http://flowingdata.com/2010/03/20/graphical-perception-learn-the-fundamentals-first/ "graphical perception"
 [25]: http://blog.livehire.me/wp-content/uploads/2014/09/Racial-Discrimination-LiveHire1.jpg "my name is opportunity"
+[26]:
+[27]: http://upload.wikimedia.org/wikipedia/commons/6/6e/%E5%A5%BD-order.gif "hao"
+[28]: http://en.wiktionary.org/wiki/%E5%A5%BD#Etymology "wiktionary"
+[29]: http://changingminds.org/techniques/questioning/kipling_questions.htm "Who What When Where Why How"
